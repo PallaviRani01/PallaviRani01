@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/pallavi-rani">
+    <a href="https://www.linkedin.com/in/pallavi-rani-220340299/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/PallaviRani01">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="mailto:pallavirani@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <a href="https://leetcode.com/u/pallavirani7903/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=PallaviRani01&style=flat-square&color=blue" alt="Profile Views"/>
@@ -31,14 +31,15 @@ Hi, I'm **Pallavi Rani**, a passionate **Data Science student** with a strong fo
 - 🔭 I'm currently working on **Data Science & Machine Learning projects**
 - 🌱 I'm exploring **Deep Learning, NLP, and Advanced Analytics**
 - 💬 Ask me about **Python, Machine Learning, Data Visualization, Power BI**
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PallaviRani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-rani)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PallaviRani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-rani-220340299/)
+- 🏆 LeetCode: [![LeetCode Badge](https://img.shields.io/badge/-pallavirani7903-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/pallavirani7903/)
 - ⚡ Fun fact: I believe **data tells stories** — you just have to know the right questions to ask! 📊
 
 ---
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavi-rani) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/PallaviRani01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pallavirani@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-rani-220340299/) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/PallaviRani01) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/pallavirani7903/)
 
 ---
 
