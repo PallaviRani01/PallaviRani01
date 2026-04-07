@@ -72,19 +72,6 @@ Hi, I'm **Pallavi Rani**, a passionate **Data Science student** with a strong fo
 | 🏧 [ATM Simulation System](https://github.com/PallaviRani01/ATM-Simulation-System-in-C-) | Console-based banking operations simulator | C++ |
 | 🎨 [Portfolio Website](https://github.com/PallaviRani01/Portfoliopallavi) | Personal portfolio with clean UI & responsive design | TypeScript |
 
----
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=PallaviRani01&theme=radical&hide_border=false&include_all_commits=false&count_private=true&commits_year=2026)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PallaviRani01&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PallaviRani01&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&commits_year=2026)
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies:
 
