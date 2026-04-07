@@ -78,9 +78,9 @@ Hi, I'm **Pallavi Rani**, a passionate **Data Science student** with a strong fo
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=PallaviRani01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PallaviRani01&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviRani01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=PallaviRani01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PallaviRani01&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PallaviRani01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -90,7 +90,7 @@ Hi, I'm **Pallavi Rani**, a passionate **Data Science student** with a strong fo
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=PallaviRani01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PallaviRani01&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
 
 </div>
 
@@ -100,7 +100,7 @@ Hi, I'm **Pallavi Rani**, a passionate **Data Science student** with a strong fo
 
 <div align="center">
 
-[![Pallavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PallaviRani01&theme=redical&hide_border=true)](https://github.com/PallaviRani01)
+[![Pallavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PallaviRani01&theme=redical&hide_border=true&area=true)](https://github.com/PallaviRani01)
 
 </div>
 
